@@ -87,3 +87,8 @@
 </details>
 
 ----
+| Company Name                   | 🔗 Blog Link                                                    |
+| ------------------------------ | --------------------------------------------------------------- |
+| Netflix                        | <https://netflixtechblog.com/>                                  |
+| Facebook                       | <https://engineering.fb.com/>                                   |
+| Twitter                        | <https://blog.twitter.com/engineering/>                         |
