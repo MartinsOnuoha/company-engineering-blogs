@@ -5,6 +5,11 @@
 - [Companies Engineering Blog](#companies-engineering-blog)
   - [Netflix 🔗](#netflix-)
   - [Facebook 🔗](#facebook-)
+  - [Twitter 🔗](#twitter-)
+  - [Cloudera 🔗](#cloudera-)
+  - [LinkedIn 🔗](#linkedin-)
+  - [MalwareBytes 🔗](#malwarebytes-)
+  - [Reddit 🔗](#reddit-)
 
 ## Netflix [🔗](https://netflixtechblog.com/)
 
@@ -26,4 +31,59 @@
 
 </details>
 
+----
 
+## Twitter [🔗](https://blog.twitter.com/engineering/)
+
+<details>
+  <summary>Blog Links</summary>
+
+- [https://blog.twitter.com/engineering/](https://blog.twitter.com/engineering/)
+
+</details>
+
+----
+
+## Cloudera [🔗](https://blog.cloudera.com/category/technical/)
+
+<details>
+  <summary>Blog Links</summary>
+
+- [https://blog.cloudera.com/category/technical/](https://blog.cloudera.com/category/technical/)
+
+</details>
+
+----
+
+## LinkedIn [🔗](https://engineering.linkedin.com/blog)
+
+<details>
+  <summary>Blog Links</summary>
+
+- [https://engineering.linkedin.com/blog](https://engineering.linkedin.com/blog)
+
+</details>
+
+----
+
+## MalwareBytes [🔗](https://blog.malwarebytes.com/)
+
+<details>
+  <summary>Blog Links</summary>
+
+- [https://blog.malwarebytes.com/](https://blog.malwarebytes.com/)
+
+</details>
+
+----
+
+## Reddit [🔗](https://redditblog.com/topic/technology/)
+
+<details>
+  <summary>Blog Links</summary>
+
+- [https://redditblog.com/topic/technology/](https://redditblog.com/topic/technology/)
+
+</details>
+
+----
