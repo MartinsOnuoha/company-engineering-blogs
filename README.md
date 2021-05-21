@@ -15,9 +15,14 @@
     - [Kotlin](#kotlin)
     - [iOS](#ios)
     - [Machine Learning](#machine-learning)
+    - [Gaming](#gaming)
     - [CI/CD](#cicd)
     - [Scaling](#scaling)
+    - [Cloud](#cloud)
+    - [Java / SprintBoot](#java--sprintboot)
+    - [Git / VCS](#git--vcs)
     - [Data](#data)
+    - [Cyber Security / Hacking](#cyber-security--hacking)
   - [Contribution](#contribution)
     - [Help with Picks](#help-with-picks)
 
@@ -28,20 +33,32 @@
 | Company Name                   | 🔗 Blog Link                                                    |
 | ------------------------------ | --------------------------------------------------------------- |
 | Airbnb                         | <https://medium.com/airbnb-engineering>                         |
+| AutoDesk                       | [All Product Blogs](https://www.autodesk.com/blogs), [Autocad Blog](https://adndevblog.typepad.com/autocad/), [Maya Blog](https://area.autodesk.com/all/blogs/maya), [Bim & Beam](https://blogs.autodesk.com/bim-and-beam/),              |
+| Atlassian                      | <https://www.atlassian.com/blog/atlassian-engineering>          |
+| ADP                            | <https://tech.adp.com/blog/>                                    |
+| Adobe                          | <https://medium.com/adobetech>                                  |
+| Akamai                         | <https://blogs.akamai.com>                                      |
+| Anaplan                        | <https://www.anaplan.com/blog>                                  |
 | Amazon                         | <https://developer.amazon.com/blogs>                            |
+| Amdocs                         | <https://www.amdocs.com/blog?field_category_target_id=2431&field_authors_target_id=All&field_blog_type_target_id=All>                            |
 | ASOS                           | <https://medium.com/asos-techblog>                              |
 | Baidu Research                 | <https://research.baidu.com/Blog>                               |
 | BBC (design + engineering)     | <https://medium.com/bbc-design-engineering>                     |
 | Black Rock Engineering         | <https://medium.com/blackrock-engineering>                      |
 | Booking.com                    | <https://blog.booking.com>                                      |
 | Cloudera                       | <https://blog.cloudera.com/category/technical>                  |
+| Citrix                         | <https://www.citrix.com/blogs>                  |
 | Cookpad                        | <https://sourcediving.com>                                      |
+| Cvent                          | <https://www.cvent.com/en/blog/topic/technology>                |
 | Coursera                       | <https://blog.coursera.org>                                     |
 | Dataiku                        | <https://blog.dataiku.com>                                      |
+| Dassault Systemes              | <https://blogs.3ds.com/uk/>                                     |
+| Docusign                       | <https://www.docusign.com/blog/developers>                      |
 | Dropbox                        | <https://dropbox.tech>                                          |
-| Digital Ocean                  | <https://www.digitalocean.com/blog/tag/engineering/>            |
+| Digital Ocean                  | <https://www.digitalocean.com/blog/tag/engineering>             |
 | eBay                           | <https://tech.ebayinc.com>                                      |
 | Etsy                           | <https://codeascraft.com>                                       |
+| EPAM                           | <https://anywhere.epam.com/blog>                                |
 | Eventbrite                     | <https://www.eventbrite.com/engineering>                        |
 | Evernote                       | <https://evernote.com/blog>                                     |
 | Facebook                       | <https://engineering.fb.com>                                    |
@@ -50,24 +67,48 @@
 | Hostinger                      | <https://www.hostinger.com/blog/engineering>                    |
 | Import.io                      | <https://www.import.io/blog>                                    |
 | Instagram                      | <https://instagram-engineering.com>                             |
+| Intuit                         | <https://www.intuit.com/blog/category/technology/engineering>  |
 | Kaggle                         | <https://medium.com/kaggle-blog>                                |
 | LineCorp                       | <https://engineering.linecorp.com/en/blog>                      |
 | LinkedIn                       | <https://engineering.linkedin.com/blog>                         |
 | MalwareBytes                   | <https://blog.malwarebytes.com>                                 |
 | Medium                         | <https://medium.engineering>                                    |
 | Mixpanel                       | <https://mixpanel.com/blog>                                     |
+| Mulesoft                       | <https://blogs.mulesoft.com/tag/engineering>                    |
+| Microsoft                      | <https://devblogs.microsoft.com>                                |
+| McAfee                         | <https://www.mcafee.com/blogs/>                                 |
 | Netflix                        | <https://netflixtechblog.com>                                   |
+| New Relic                      | <https://newrelic.com/blog>                                     |
+| Net App                        | <https://blog.netapp.com>                                       |
+| NortonLifeLock                 | <https://www.nortonlifelock.com/blogs/gaming>                   |
+| Okta                           | <https://developer.okta.com/blog>                               |
+| Oracle                         | <https://blogs.oracle.com/developers>                           |
 | Pinterest                      | <https://medium.com/@Pinterest_Engineering>                     |
+| Proofpoint                     | <https://www.proofpoint.com/us/blog>                            |
 | Quora                          | <https://quoraengineering.quora.com>                            |
+| Qualtrics                      | <https://www.qualtrics.com/eng>                                 |
 | Reddit                         | <https://redditblog.com/topic/technology>                       |
 | RiotGames                      | <https://technology.riotgames.com>                              |
+| Rackspace                      | <https://docs.rackspace.com/blog>                               |
 | Salesforce                     | <https://developer.salesforce.com/blogs/engineering>            |
+| SAP                            | <https://blogs.sap.com/?category%5B%5D=76118&action=apply>      |
+| SS&C                           | <https://www.ssctech.com/blog>                                  |
 | Shopify                        | <https://engineering.shopify.com>                               |
 | Strava                         | <https://medium.com/strava-engineering>                         |
+| Slack                          | <https://slack.engineering>                                     |
+| Stripe                         | <https://stripe.com/blog/engineering>                           |
+| Splunk                         | <https://www.splunk.com/en_us/blog/it.html>                     |
+| ServiceNow                     | <https://developer.servicenow.com>                              |
 | Twitter                        | <https://blog.twitter.com/engineering>                          |
-| Toptal                         | <https://www.toptal.com/developers/blog>                          |
+| Twilio                         | <https://www.twilio.com/blog>                                   |
+| Toptal                         | <https://www.toptal.com/developers/blog>                        |
+| Tableau                        | <https://engineering.tableau.com>                               |
 | Uber                           | <https://eng.uber.com>                                          |
+| Veeam                          | <https://www.veeam.com/blog/?filter-tag=best-practices>         |
+| Veeva                          | <https://www.veeva.com/veeva-blog>                              |
+| Workday                        | <https://blog.workday.com/en-us/technology-innovation.html>     |
 | Yelp                           | <https://engineeringblog.yelp.com>                              |
+| Zoho                           | <https://blog.zoho.com/>                                        |
 
 ----
 
@@ -91,6 +132,7 @@ Here's a list of handpicked articles to checkout from these blogs, they are arra
 
 - [Performance Test in Jenkins](https://engineering.linecorp.com/en/blog/intern-report-a-survey-on-selection-techniques-of-consensus-participants-in-blockchains/)
 - [How to Use A/B Testing for Event Promotion](https://blog.dataiku.com/wanna/b-by-the-stats-girls-how-to-use-a/b-testing-for-event-promotion)
+- [Load Testing with Koi Pond](https://slack.engineering/load-testing-with-koi-pond/)
 
 </details>
 
@@ -100,6 +142,8 @@ Here's a list of handpicked articles to checkout from these blogs, they are arra
   <summary>Useful Links</summary>
 
 - [Progressive enhancement as a valuable philosophy in the Age of Javascript](https://sourcediving.com/progressive-enhancement-as-a-valuable-philosophy-in-the-age-of-javascript-aac2e26364d2)
+- [Measuring performance in JavaScript](https://anywhere.epam.com/blog/measuring-performance-in-javascript-tips-tricks)
+- [JavaScript Interview Questions at EPAM Anywhere](https://anywhere.epam.com/blog/javascript-interview-questions-at-epam-anywhere)
 
 </details>
 
@@ -131,6 +175,15 @@ Here's a list of handpicked articles to checkout from these blogs, they are arra
 
 </details>
 
+### Gaming
+
+<details>
+  <summary>Useful Links</summary>
+
+- [Emulators and ROMs: A Gamers Moral Obligation, Or a Pirate’s Legal Grey Area?](https://www.nortonlifelock.com/blogs/gaming/emulators-and-roms)
+
+</details>
+
 ### CI/CD
 
 <details>
@@ -149,12 +202,51 @@ Here's a list of handpicked articles to checkout from these blogs, they are arra
 
 </details>
 
+### Cloud
+
+<details>
+  <summary>Useful Links</summary>
+
+- [How we built our cloud migration strategy for Confluence](https://www.atlassian.com/blog/atlassian-engineering/cloud-migration-strategy-confluence)
+- [Caching in: performance engineering in Jira Cloud](https://www.atlassian.com/blog/technology/jira-performance-engineering)
+
+</details>
+
+### Java / SprintBoot
+
+<details>
+  <summary>Useful Links</summary>
+
+- [A deep, deep dive into Java debugging](https://www.atlassian.com/blog/software-teams/java-debugging-example)
+- [How to deploy Java apps with Docker (a quick tutorial)](https://www.atlassian.com/blog/software-teams/deploy-java-apps-with-docker-awesome)
+- [R2DBC and Spring for Non-Blocking Database Access](https://developer.okta.com/blog/2021/05/12/spring-boot-r2dbc)
+
+</details>
+
+### Git / VCS
+
+<details>
+  <summary>Useful Links</summary>
+
+- [One weird trick for powerful Git aliases](https://www.atlassian.com/blog/git/advanced-git-aliases)
+
+</details>
+
 ### Data
 
 <details>
   <summary>Useful Links</summary>
 
 - [A Five-Step Guide for Conducting Exploratory Data Analysis](https://shopify.engineering/conducting-exploratory-data-analysis)
+
+</details>
+
+### Cyber Security / Hacking
+
+<details>
+  <summary>Useful Links</summary>
+
+- [Defend your company against phishing attacks](https://www.veeam.com/blog/phishing-attacks.html)
 
 </details>
 
