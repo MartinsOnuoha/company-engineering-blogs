@@ -4,8 +4,10 @@
 
 - [Companies Engineering Blog](#companies-engineering-blog)
   - [Blog Links](#blog-links)
+  - [|](#)
   - [Picks](#picks)
-    - [Frontend 🔗](#frontend-)
+    - [Frontend 🎨](#frontend-)
+    - [Testing 🧪](#testing-)
 
 ----
 
@@ -20,18 +22,29 @@
 | LinkedIn                       | <https://engineering.linkedin.com/blog/>                        |
 | MalwareBytes                   | <https://blog.malwarebytes.com/>                                |
 | Reddit                         | <https://redditblog.com/topic/technology/>                      |
-
+| Google AI                      | <https://ai.googleblog.com/>                                    |
+| LineCorp                       | <https://engineering.linecorp.com/en/blog/>                     |
+|
 ----
 
 ## Picks
 
 Here's a list of handpicked articles to checkout from these blogs, they are arranged under related stack.
 
-### Frontend [🔗](https://netflixtechblog.com/)
+### Frontend 🎨
 
 <details>
   <summary>Useful Links</summary>
 
-- [https://netflixtechblog.com/](https://netflixtechblog.com/)
+- [Web Styling With React JS](https://engineering.linecorp.com/en/blog/web-styling-with-reactjs/)
+
+</details>
+
+### Testing 🧪
+
+<details>
+  <summary>Useful Links</summary>
+
+- [Performance Test in Jenkins](https://engineering.linecorp.com/en/blog/intern-report-a-survey-on-selection-techniques-of-consensus-participants-in-blockchains/)
 
 </details>
