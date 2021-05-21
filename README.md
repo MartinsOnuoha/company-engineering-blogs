@@ -7,7 +7,7 @@
 > This is an extensive collection of links to engineering blogs of companies, where you can read articles that give insights to how their products are built and how to solve complex enterprise software problems.
 
 - [Companies Engineering Blog](#companies-engineering-blog)
-  - [Blog Links](#blog-links)
+  - [Blog Links (41)](#blog-links-41)
   - [Picks](#picks)
     - [Frontend 🎨](#frontend-)
     - [Testing 🧪](#testing-)
@@ -23,7 +23,7 @@
 
 ----
 
-## Blog Links
+## Blog Links (41)
 
 | Company Name                   | 🔗 Blog Link                                                    |
 | ------------------------------ | --------------------------------------------------------------- |
