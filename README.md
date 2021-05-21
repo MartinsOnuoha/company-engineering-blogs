@@ -39,6 +39,7 @@
 | Coursera                       | <https://blog.coursera.org>                                     |
 | Dataiku                        | <https://blog.dataiku.com>                                      |
 | Dropbox                        | <https://dropbox.tech>                                          |
+| Digital Ocean                  | <https://www.digitalocean.com/blog/tag/engineering/>            |
 | eBay                           | <https://tech.ebayinc.com>                                      |
 | Etsy                           | <https://codeascraft.com>                                       |
 | Eventbrite                     | <https://www.eventbrite.com/engineering>                        |

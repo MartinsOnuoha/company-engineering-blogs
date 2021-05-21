@@ -151,6 +151,10 @@ const links = [
     name: 'Yelp',
     link: 'https://engineeringblog.yelp.com'
   },
+  {
+    name: 'Digital Ocean',
+    link: 'https://www.digitalocean.com/blog/tag/engineering/'
+  },
 ]
 
 export default links
