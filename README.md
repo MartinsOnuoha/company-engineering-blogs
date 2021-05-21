@@ -27,25 +27,14 @@
 
 | Company Name                   | 🔗 Blog Link                                                    |
 | ------------------------------ | --------------------------------------------------------------- |
-| Netflix                        | <https://netflixtechblog.com>                                   |
-| Facebook                       | <https://engineering.fb.com>                                    |
-| Twitter                        | <https://blog.twitter.com/engineering>                          |
-| Cloudera                       | <https://blog.cloudera.com/category/technical>                  |
-| LinkedIn                       | <https://engineering.linkedin.com/blog>                         |
-| MalwareBytes                   | <https://blog.malwarebytes.com>                                 |
-| Reddit                         | <https://redditblog.com/topic/technology>                       |
-| Google AI                      | <https://ai.googleblog.com>                                     |
-| LineCorp                       | <https://engineering.linecorp.com/en/blog>                      |
-| Uber                           | <https://eng.uber.com>                                          |
-| Medium                         | <https://medium.engineering>                                    |
-| Instagram                      | <https://instagram-engineering.com>                             |
 | Airbnb                         | <https://medium.com/airbnb-engineering>                         |
 | Amazon                         | <https://developer.amazon.com/blogs>                            |
 | ASOS                           | <https://medium.com/asos-techblog>                              |
 | Baidu Research                 | <https://research.baidu.com/Blog>                               |
-| Black Rock Engineering         | <https://medium.com/blackrock-engineering>                      |
 | BBC (design + engineering)     | <https://medium.com/bbc-design-engineering>                     |
+| Black Rock Engineering         | <https://medium.com/blackrock-engineering>                      |
 | Booking.com                    | <https://blog.booking.com>                                      |
+| Cloudera                       | <https://blog.cloudera.com/category/technical>                  |
 | Cookpad                        | <https://sourcediving.com>                                      |
 | Coursera                       | <https://blog.coursera.org>                                     |
 | Dataiku                        | <https://blog.dataiku.com>                                      |
@@ -54,18 +43,29 @@
 | Etsy                           | <https://codeascraft.com>                                       |
 | Eventbrite                     | <https://www.eventbrite.com/engineering>                        |
 | Evernote                       | <https://evernote.com/blog>                                     |
+| Facebook                       | <https://engineering.fb.com>                                    |
 | FastMail                       | <https://fastmail.blog/tag/open-technologies>                   |
+| Google AI                      | <https://ai.googleblog.com>                                     |
+| Hostinger                      | <https://www.hostinger.com/blog/engineering>                    |
 | Import.io                      | <https://www.import.io/blog>                                    |
+| Instagram                      | <https://instagram-engineering.com>                             |
 | Kaggle                         | <https://medium.com/kaggle-blog>                                |
+| LineCorp                       | <https://engineering.linecorp.com/en/blog>                      |
+| LinkedIn                       | <https://engineering.linkedin.com/blog>                         |
+| MalwareBytes                   | <https://blog.malwarebytes.com>                                 |
+| Medium                         | <https://medium.engineering>                                    |
 | Mixpanel                       | <https://mixpanel.com/blog>                                     |
+| Netflix                        | <https://netflixtechblog.com>                                   |
 | Pinterest                      | <https://medium.com/@Pinterest_Engineering>                     |
 | Quora                          | <https://quoraengineering.quora.com>                            |
+| Reddit                         | <https://redditblog.com/topic/technology>                       |
 | RiotGames                      | <https://technology.riotgames.com>                              |
 | Salesforce                     | <https://developer.salesforce.com/blogs/engineering>            |
 | Shopify                        | <https://engineering.shopify.com>                               |
 | Strava                         | <https://medium.com/strava-engineering>                         |
+| Twitter                        | <https://blog.twitter.com/engineering>                          |
+| Uber                           | <https://eng.uber.com>                                          |
 | Yelp                           | <https://engineeringblog.yelp.com>                              |
-| Hostinger                      | <https://www.hostinger.com/blog/engineering>                    |
 
 ----
 
