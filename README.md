@@ -1,5 +1,7 @@
 # Companies Engineering Blog
 
+<https://engineering-blogs.surge.sh/>
+
 > You'd be surprised how much technical knowledge you can get from reading engineering blogs of thriving companies.
 >
 > This is an extensive collection of links to engineering blogs of companies, where you can read articles that give insights to how their products are built and how to solve complex enterprise software problems.
@@ -17,6 +19,7 @@
     - [Scaling](#scaling)
     - [Data](#data)
   - [Contribution](#contribution)
+    - [Help with Picks](#help-with-picks)
 
 ----
 
@@ -163,3 +166,7 @@ Feel free to raise a PR to include more in the README.
 - Create a new branch and make additions
 
 - Raise a PR
+
+### Help with Picks
+
+It would be great to get some help with picking out articles from these blogs and adding them under the various categories (picks)
