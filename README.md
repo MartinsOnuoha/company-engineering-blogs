@@ -65,6 +65,7 @@
 | Shopify                        | <https://engineering.shopify.com>                               |
 | Strava                         | <https://medium.com/strava-engineering>                         |
 | Twitter                        | <https://blog.twitter.com/engineering>                          |
+| Toptal                         | <https://www.toptal.com/developers/blog>                          |
 | Uber                           | <https://eng.uber.com>                                          |
 | Yelp                           | <https://engineeringblog.yelp.com>                              |
 

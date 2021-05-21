@@ -155,6 +155,10 @@ const links = [
     name: 'Digital Ocean',
     link: 'https://www.digitalocean.com/blog/tag/engineering/'
   },
-]
+  {
+    name: 'Toptal',
+    link: 'https://www.toptal.com/developers/blog'
+  },
+];
 
-export default links
+export default links;
