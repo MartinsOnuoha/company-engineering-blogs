@@ -7,7 +7,7 @@
 > This is an extensive collection of links to engineering blogs of companies, where you can read articles that give insights to how their products are built and how to solve complex enterprise software problems.
 
 - [Companies Engineering Blog](#companies-engineering-blog)
-  - [Blog Links (41)](#blog-links-41)
+  - [Blog Links (77)](#blog-links-77)
   - [Picks](#picks)
     - [Frontend 🎨](#frontend-)
     - [Testing 🧪](#testing-)
@@ -28,7 +28,7 @@
 
 ----
 
-## Blog Links (41)
+## Blog Links (77)
 
 | Company Name                   | 🔗 Blog Link                                                    |
 | ------------------------------ | --------------------------------------------------------------- |
@@ -238,6 +238,9 @@ Here's a list of handpicked articles to checkout from these blogs, they are arra
   <summary>Useful Links</summary>
 
 - [A Five-Step Guide for Conducting Exploratory Data Analysis](https://shopify.engineering/conducting-exploratory-data-analysis)
+- [Connect Teradata Vantage to Salesforce Using Amazon Appflow](https://www.teradata.com/Blogs/Connect-Teradata-Vantage-to-Salesforce-Using-Amazon-Appflow)
+- [Thirteen Thoughts About the Data Mesh](https://www.teradata.com/Blogs/Thirteen-Thoughts-About-the-Data-Mesh)
+- [Data Mesh and the Threads that Hold it Together](https://www.teradata.com/Blogs/Data-Mesh-and-the-Threads-that-Hold-it-Together)
 
 </details>
 
