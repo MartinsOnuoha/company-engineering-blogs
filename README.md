@@ -110,7 +110,7 @@
 | Workday                        | <https://blog.workday.com/en-us/technology-innovation.html>     |
 | Yelp                           | <https://engineeringblog.yelp.com>                              |
 | Zoho                           | <https://blog.zoho.com/>                                        |
-| Zoho                           | <https://medium.com/zoom-developer-blog/>                                        |
+| Zoom                           | <https://medium.com/zoom-developer-blog/>                                        |
 ----
 
 ## Picks
