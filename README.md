@@ -16,6 +16,7 @@
     - [CI/CD](#cicd)
     - [Scaling](#scaling)
     - [Data](#data)
+  - [Contribution](#contribution)
 
 ----
 
@@ -61,6 +62,7 @@
 | Shopify                        | <https://engineering.shopify.com>                               |
 | Strava                         | <https://medium.com/strava-engineering>                         |
 | Yelp                           | <https://engineeringblog.yelp.com>                              |
+| Hostinger                      | <https://www.hostinger.com/blog/engineering>                    |
 
 ----
 
@@ -150,3 +152,14 @@ Here's a list of handpicked articles to checkout from these blogs, they are arra
 - [A Five-Step Guide for Conducting Exploratory Data Analysis](https://shopify.engineering/conducting-exploratory-data-analysis)
 
 </details>
+
+## Contribution
+
+As much as this list seems extensive, there're a couple of Companies that aren't here...yet.
+Feel free to raise a PR to include more in the README.
+
+- Fork the project
+
+- Create a new branch and make additions
+
+- Raise a PR
