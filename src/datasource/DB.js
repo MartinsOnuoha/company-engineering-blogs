@@ -283,6 +283,170 @@ const links = [
     name: 'McAfee',
     link: 'https://www.mcafee.com/blogs/'
   },
+  {
+    name: 'Teradata',
+    link: 'https://www.teradata.com/Blogs'
+  },
+  {
+    name: 'ACI worldwide',
+    link: 'https://www.aciworldwide.com/blog'
+  },
+  {
+    name: 'Smartsheet',
+    link: 'https://www.smartsheet.com/content-center'
+  },
+  {
+    name: 'Zuora',
+    link: 'https://community.zuora.com/t5/Engineering-Blog/bg-p/engineering-blog'
+  },
+  {
+    name: 'Outsystems',
+    link: 'https://medium.com/outsystems-engineering'
+  },
+  {
+    name: 'Coupa',
+    link: 'https://www.coupa.com/blog/technology-innovation'
+  },
+  {
+    name: 'Cyclane',
+    link: 'https://blog.fivenines.com/'
+  },
+  {
+    name: 'Elastic Search',
+    link: 'https://www.elastic.co/blog/category/engineering'
+  },
+  {
+    name: 'Zoom',
+    link: 'https://medium.com/zoom-developer-blog'
+  },
+  {
+    name: 'DeepMind',
+    link: 'https://deepmind.com/blog'
+  },
+  {
+    name: 'SailPoint',
+    link: 'https://medium.com/sailpointtechblog'
+  },
+  {
+    name: 'JustWorks',
+    link: 'https://justworks.com/blog/categories/engineering'
+  },
+  {
+    name: 'Collibra',
+    link: 'https://www.collibra.com/blog'
+  },
+  {
+    name: 'Salesloft',
+    link: 'https://medium.com/salesloft-engineering/tagged/engineering'
+  },
+  {
+    name: 'Talkdesk',
+    link: 'https://engineering.talkdesk.com'
+  },
+  {
+    name: 'Zoominfo',
+    link: 'https://engineering.zoominfo.com/'
+  },
+  {
+    name: 'Pipedrive',
+    link: 'https://medium.com/pipedrive-engineering'
+  },
+  {
+    name: 'FullContact',
+    link: 'https://www.fullcontact.com/blog/engineering/'
+  },
+  {
+    name: 'Datorama',
+    link: 'https://engineering.datorama.com/'
+  },
+  {
+    name: 'Egnyte',
+    link: 'https://www.egnyte.com/blog/tag/engineering/'
+  },
+  {
+    name: 'SmartBear',
+    link: 'https://smartbear.com/blog/'
+  },
+  {
+    name: 'Couchbase',
+    link: 'https://blog.couchbase.com/'
+  },
+  {
+    name: 'Asana',
+    link: 'https://blog.asana.com/category/eng'
+  },
+  {
+    name: 'Mendix',
+    link: 'https://developers.mendix.com/community-blog/'
+  },
+  {
+    name: 'Fastly',
+    link: 'https://www.fastly.com/blog/engineering'
+  },
+  {
+    name: 'Databricks',
+    link: 'https://databricks.com/blog/category/engineering'
+  },
+  {
+    name: 'Zaloni',
+    link: 'https://www.zaloni.com/blogs-news/'
+  },
+  {
+    name: 'PagerDuty',
+    link: 'https://www.pagerduty.com/eng/'
+  },
+  {
+    name: 'SocialBakers',
+    link: 'https://medium.com/socialbakers-engineering'
+  },
+  {
+    name: 'Nintex',
+    link: 'https://www.nintex.com/blog/'
+  },
+  {
+    name: 'SimilarWeb',
+    link: 'https://similarweb.engineering/'
+  },
+  {
+    name: 'Looker',
+    link: 'https://medium.com/looker-engineering'
+  },
+  {
+    name: 'Centrify',
+    link: 'https://www.centrify.com/blog/'
+  },
+  {
+    name: 'Namely',
+    link: 'https://medium.com/namely-labs'
+  },
+  {
+    name: 'GFI Software',
+    link: 'https://techtalk.gfi.com'
+  },
+  {
+    name: 'DataStax',
+    link: 'https://datastax.medium.com/'
+  },
+  {
+    name: 'Gusto',
+    link: 'https://engineering.gusto.com/'
+  },
+  {
+    name: 'Walkme',
+    link: 'https://medium.com/walkme-engineering'
+  },
+  {
+    name: 'Datadog',
+    link: 'https://www.datadoghq.com/blog/engineering/'
+  },
+  {
+    name: 'InVision',
+    link: 'https://engineering.invisionapp.com/'
+  },
+  {
+    name: 'Intercom',
+    link: 'https://www.intercom.com/blog/engineering/'
+  },
 ];
 
 export default links;

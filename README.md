@@ -12,6 +12,7 @@
     - [Frontend 🎨](#frontend-)
     - [Testing 🧪](#testing-)
     - [Javascript](#javascript)
+    - [Python](#python)
     - [Kotlin](#kotlin)
     - [iOS](#ios)
     - [Machine Learning](#machine-learning)
@@ -38,53 +39,82 @@
 | ADP                            | <https://tech.adp.com/blog/>                                    |
 | Adobe                          | <https://medium.com/adobetech>                                  |
 | Akamai                         | <https://blogs.akamai.com>                                      |
+| ACI worldwide                  | <https://www.aciworldwide.com/blog>                             |
 | Anaplan                        | <https://www.anaplan.com/blog>                                  |
 | Amazon                         | <https://developer.amazon.com/blogs>                            |
-| Amdocs                         | <https://www.amdocs.com/blog?field_category_target_id=2431&field_authors_target_id=All&field_blog_type_target_id=All>                            |
+| Asana                          | <https://blog.asana.com/category/eng>                           |
+| Amdocs                         | <https://www.amdocs.com/blog?field_category_target_id=2431&field_authors_target_id=All&field_blog_type_target_id=All>                                                                     |
 | ASOS                           | <https://medium.com/asos-techblog>                              |
 | Baidu Research                 | <https://research.baidu.com/Blog>                               |
 | BBC (design + engineering)     | <https://medium.com/bbc-design-engineering>                     |
 | Black Rock Engineering         | <https://medium.com/blackrock-engineering>                      |
 | Booking.com                    | <https://blog.booking.com>                                      |
 | Cloudera                       | <https://blog.cloudera.com/category/technical>                  |
-| Citrix                         | <https://www.citrix.com/blogs>                  |
+| Citrix                         | <https://www.citrix.com/blogs>                                  |
+| Centrify                       | <https://www.centrify.com/blog>                                 |
 | Cookpad                        | <https://sourcediving.com>                                      |
+| Couchbase                      | <https://blog.couchbase.com>                                    |
+| Collibra                       | <https://www.collibra.com/blog>                                 |
 | Cvent                          | <https://www.cvent.com/en/blog/topic/technology>                |
 | Coursera                       | <https://blog.coursera.org>                                     |
+| Coupa                          | <https://www.coupa.com/blog/technology-innovation>              |
+| Cyclane                        | <https://blog.fivenines.com>                                    |
 | Dataiku                        | <https://blog.dataiku.com>                                      |
-| Dassault Systemes              | <https://blogs.3ds.com/uk/>                                     |
+| Datorama                       | <https://engineering.datorama.com>                              |
+| Databricks                     | <https://databricks.com/blog/category/engineering>              |
+| Datadog                        | <https://www.datadoghq.com/blog/engineering>                    |
+| Dassault Systemes              | <https://blogs.3ds.com/uk>                                      |
+| DataStax                       | <https://datastax.medium.com>                                   |
+| DeepMind                       | <https://deepmind.com/blog>                                     |
 | Docusign                       | <https://www.docusign.com/blog/developers>                      |
 | Dropbox                        | <https://dropbox.tech>                                          |
 | Digital Ocean                  | <https://www.digitalocean.com/blog/tag/engineering>             |
 | eBay                           | <https://tech.ebayinc.com>                                      |
+| Egnyte                         | <https://www.egnyte.com/blog/tag/engineering>                   |
 | Etsy                           | <https://codeascraft.com>                                       |
+| Elastic Search                 | <https://www.elastic.co/blog/category/engineering>              |
 | EPAM                           | <https://anywhere.epam.com/blog>                                |
 | Eventbrite                     | <https://www.eventbrite.com/engineering>                        |
 | Evernote                       | <https://evernote.com/blog>                                     |
 | Facebook                       | <https://engineering.fb.com>                                    |
+| FullContact                    | <https://www.fullcontact.com/blog/engineering>                  |
 | FastMail                       | <https://fastmail.blog/tag/open-technologies>                   |
+| Fastly                         | <https://www.fastly.com/blog/engineering>                       |
 | Google AI                      | <https://ai.googleblog.com>                                     |
+| Gusto                          | <https://engineering.gusto.com>                                 |
+| GFI Software                   | <https://techtalk.gfi.com/>                                     |
 | Hostinger                      | <https://www.hostinger.com/blog/engineering>                    |
 | Import.io                      | <https://www.import.io/blog>                                    |
 | Instagram                      | <https://instagram-engineering.com>                             |
-| Intuit                         | <https://www.intuit.com/blog/category/technology/engineering>  |
+| Intuit                         | <https://www.intuit.com/blog/category/technology/engineering>   |
+| InVision                       | <https://engineering.invisionapp.com>                           |
+| Intercom                       | <https://www.intercom.com/blog/engineering>                     |
+| JustWorks                      | <https://justworks.com/blog/categories/engineering>             |
 | Kaggle                         | <https://medium.com/kaggle-blog>                                |
 | LineCorp                       | <https://engineering.linecorp.com/en/blog>                      |
 | LinkedIn                       | <https://engineering.linkedin.com/blog>                         |
+| Looker                         | <https://medium.com/looker-engineering>                         |
 | MalwareBytes                   | <https://blog.malwarebytes.com>                                 |
 | Medium                         | <https://medium.engineering>                                    |
+| Mendix                         | <https://developers.mendix.com/community-blog>                  |
 | Mixpanel                       | <https://mixpanel.com/blog>                                     |
 | Mulesoft                       | <https://blogs.mulesoft.com/tag/engineering>                    |
 | Microsoft                      | <https://devblogs.microsoft.com>                                |
-| McAfee                         | <https://www.mcafee.com/blogs/>                                 |
+| MotionDeveloper                | <https://www.motiondeveloper.com/blog>                          |
+| McAfee                         | <https://www.mcafee.com/blogs>                                  |
 | Netflix                        | <https://netflixtechblog.com>                                   |
+| Namely                         | <https://medium.com/namely-labs>                                |
 | New Relic                      | <https://newrelic.com/blog>                                     |
+| Nintex                         | <https://www.nintex.com/blog>                                   |
 | Net App                        | <https://blog.netapp.com>                                       |
 | NortonLifeLock                 | <https://www.nortonlifelock.com/blogs/gaming>                   |
 | Okta                           | <https://developer.okta.com/blog>                               |
 | Oracle                         | <https://blogs.oracle.com/developers>                           |
+| Outsystems                     | <https://medium.com/outsystems-engineering>                     |
+| PagerDuty                      | <https://www.pagerduty.com/eng>                                 |
 | Pinterest                      | <https://medium.com/@Pinterest_Engineering>                     |
 | Proofpoint                     | <https://www.proofpoint.com/us/blog>                            |
+| Pipedrive                      | <https://medium.com/pipedrive-engineering>                      |
 | Quora                          | <https://quoraengineering.quora.com>                            |
 | Qualtrics                      | <https://www.qualtrics.com/eng>                                 |
 | Reddit                         | <https://redditblog.com/topic/technology>                       |
@@ -92,14 +122,22 @@
 | Rackspace                      | <https://docs.rackspace.com/blog>                               |
 | Salesforce                     | <https://developer.salesforce.com/blogs/engineering>            |
 | SAP                            | <https://blogs.sap.com/?category%5B%5D=76118&action=apply>      |
+| SailPoint                      | <https://medium.com/sailpointtechblog>                          |
+| Salesloft                      | <https://medium.com/salesloft-engineering/tagged/engineering>   |
+| SocialBakers                   | <https://medium.com/socialbakers-engineering>                   |
+| SimilarWeb                     | <https://similarweb.engineering>                                |
 | SS&C                           | <https://www.ssctech.com/blog>                                  |
 | Shopify                        | <https://engineering.shopify.com>                               |
 | Strava                         | <https://medium.com/strava-engineering>                         |
 | Slack                          | <https://slack.engineering>                                     |
 | Stripe                         | <https://stripe.com/blog/engineering>                           |
+| Smartsheet                     | <https://www.smartsheet.com/content-center>                     |
+| SmartBear                      | <https://smartbear.com/blog>                                    |
 | Splunk                         | <https://www.splunk.com/en_us/blog/it.html>                     |
 | ServiceNow                     | <https://developer.servicenow.com>                              |
+| Talkdesk                       | <https://engineering.talkdesk.com/>                             |
 | Twitter                        | <https://blog.twitter.com/engineering>                          |
+| Teradata                       | <https://www.teradata.com/Blogs>                                |
 | Twilio                         | <https://www.twilio.com/blog>                                   |
 | Toptal                         | <https://www.toptal.com/developers/blog>                        |
 | Tableau                        | <https://engineering.tableau.com>                               |
@@ -107,8 +145,13 @@
 | Veeam                          | <https://www.veeam.com/blog/?filter-tag=best-practices>         |
 | Veeva                          | <https://www.veeva.com/veeva-blog>                              |
 | Workday                        | <https://blog.workday.com/en-us/technology-innovation.html>     |
+| Walkme                         | <https://medium.com/walkme-engineering>                         |
 | Yelp                           | <https://engineeringblog.yelp.com>                              |
-| Zoho                           | <https://blog.zoho.com/>                                        |
+| Zoho                           | <https://blog.zoho.com>                                         |
+| Zuora                          | <https://community.zuora.com/t5/Engineering-Blog/bg-p/engineering-blog> |
+| Zoom                           | <https://medium.com/zoom-developer-blog>                        |
+| Zoominfo                       | <https://engineering.zoominfo.com>                              |
+| Zaloni                         | <https://www.zaloni.com/blogs-news>                             |
 
 ----
 
@@ -144,6 +187,15 @@ Here's a list of handpicked articles to checkout from these blogs, they are arra
 - [Progressive enhancement as a valuable philosophy in the Age of Javascript](https://sourcediving.com/progressive-enhancement-as-a-valuable-philosophy-in-the-age-of-javascript-aac2e26364d2)
 - [Measuring performance in JavaScript](https://anywhere.epam.com/blog/measuring-performance-in-javascript-tips-tricks)
 - [JavaScript Interview Questions at EPAM Anywhere](https://anywhere.epam.com/blog/javascript-interview-questions-at-epam-anywhere)
+
+</details>
+
+### Python
+
+<details>
+  <summary>Useful Links</summary>
+
+- [How we wrote a Python Profiler](https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/)
 
 </details>
 
