@@ -19,7 +19,7 @@
     - [CI/CD](#cicd)
     - [Scaling](#scaling)
     - [Cloud](#cloud)
-    - [Java / SprintBoot](#java--sprintboot)
+    - [Java / SpringBoot](#java--springboot)
     - [Git / VCS](#git--vcs)
     - [Data](#data)
     - [Cyber Security / Hacking](#cyber-security--hacking)
@@ -94,6 +94,7 @@
 | SAP                            | <https://blogs.sap.com/?category%5B%5D=76118&action=apply>      |
 | SS&C                           | <https://www.ssctech.com/blog>                                  |
 | Shopify                        | <https://engineering.shopify.com>                               |
+| Spotify                        | <https://engineering.atspotify.com >                            |
 | Strava                         | <https://medium.com/strava-engineering>                         |
 | Slack                          | <https://slack.engineering>                                     |
 | Stripe                         | <https://stripe.com/blog/engineering>                           |
@@ -109,7 +110,7 @@
 | Workday                        | <https://blog.workday.com/en-us/technology-innovation.html>     |
 | Yelp                           | <https://engineeringblog.yelp.com>                              |
 | Zoho                           | <https://blog.zoho.com/>                                        |
-
+| Zoom                           | <https://medium.com/zoom-developer-blog/>                                        |
 ----
 
 ## Picks
@@ -212,7 +213,7 @@ Here's a list of handpicked articles to checkout from these blogs, they are arra
 
 </details>
 
-### Java / SprintBoot
+### Java / SpringBoot
 
 <details>
   <summary>Useful Links</summary>
