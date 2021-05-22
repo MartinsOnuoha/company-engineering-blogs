@@ -20,7 +20,7 @@
     - [CI/CD](#cicd)
     - [Scaling](#scaling)
     - [Cloud](#cloud)
-    - [Java / SprintBoot](#java--sprintboot)
+    - [Java / SpringBoot](#java--springboot)
     - [Git / VCS](#git--vcs)
     - [Data](#data)
     - [Cyber Security / Hacking](#cyber-security--hacking)
@@ -128,6 +128,7 @@
 | SimilarWeb                     | <https://similarweb.engineering>                                |
 | SS&C                           | <https://www.ssctech.com/blog>                                  |
 | Shopify                        | <https://engineering.shopify.com>                               |
+| Spotify                        | <<https://engineering.atspotify.com> >                            |
 | Strava                         | <https://medium.com/strava-engineering>                         |
 | Slack                          | <https://slack.engineering>                                     |
 | Stripe                         | <https://stripe.com/blog/engineering>                           |
@@ -264,7 +265,7 @@ Here's a list of handpicked articles to checkout from these blogs, they are arra
 
 </details>
 
-### Java / SprintBoot
+### Java / SpringBoot
 
 <details>
   <summary>Useful Links</summary>
