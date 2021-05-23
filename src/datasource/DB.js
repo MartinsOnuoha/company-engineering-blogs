@@ -447,6 +447,22 @@ const links = [
     name: 'Intercom',
     link: 'https://www.intercom.com/blog/engineering/'
   },
+  {
+    name: 'Exponent',
+    link: 'https://blog.tryexponent.com'
+  },
+  {
+    name: 'Nextroll',
+    link: 'https://tech.nextroll.com/blog'
+  },
+  {
+    name: '8thlight',
+    link: 'https://8thlight.com/blog'
+  },
+  {
+    name: 'Doordash',
+    link: 'https://doordash.engineering'
+  },
 ];
 
 export default links;

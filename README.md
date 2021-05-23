@@ -33,6 +33,7 @@
 
 | Company Name                   | 🔗 Blog Link                                                    |
 | ------------------------------ | --------------------------------------------------------------- |
+| 8thlight                       | <https://8thlight.com/blog>                                     |
 | Airbnb                         | <https://medium.com/airbnb-engineering>                         |
 | AutoDesk                       | [All Product Blogs](https://www.autodesk.com/blogs), [Autocad Blog](https://adndevblog.typepad.com/autocad/), [Maya Blog](https://area.autodesk.com/all/blogs/maya), [Bim & Beam](https://blogs.autodesk.com/bim-and-beam/),              |
 | Atlassian                      | <https://www.atlassian.com/blog/atlassian-engineering>          |
@@ -45,6 +46,9 @@
 | Asana                          | <https://blog.asana.com/category/eng>                           |
 | Amdocs                         | <https://www.amdocs.com/blog?field_category_target_id=2431&field_authors_target_id=All&field_blog_type_target_id=All>                                                                     |
 | ASOS                           | <https://medium.com/asos-techblog>                              |
+|                                |                                                                 |
+| B                              |                                                                 |
+|                                |                                                                 |
 | Baidu Research                 | <https://research.baidu.com/Blog>                               |
 | BBC (design + engineering)     | <https://medium.com/bbc-design-engineering>                     |
 | Black Rock Engineering         | <https://medium.com/blackrock-engineering>                      |
@@ -65,12 +69,14 @@
 | Datadog                        | <https://www.datadoghq.com/blog/engineering>                    |
 | Dassault Systemes              | <https://blogs.3ds.com/uk>                                      |
 | DataStax                       | <https://datastax.medium.com>                                   |
+| Doordash                       | <https://doordash.engineering>                                  |
 | DeepMind                       | <https://deepmind.com/blog>                                     |
 | Docusign                       | <https://www.docusign.com/blog/developers>                      |
 | Dropbox                        | <https://dropbox.tech>                                          |
 | Digital Ocean                  | <https://www.digitalocean.com/blog/tag/engineering>             |
 | eBay                           | <https://tech.ebayinc.com>                                      |
 | Egnyte                         | <https://www.egnyte.com/blog/tag/engineering>                   |
+| Exponent                       | <https://blog.tryexponent.com>                                  |
 | Etsy                           | <https://codeascraft.com>                                       |
 | Elastic Search                 | <https://www.elastic.co/blog/category/engineering>              |
 | EPAM                           | <https://anywhere.epam.com/blog>                                |
@@ -103,6 +109,7 @@
 | MotionDeveloper                | <https://www.motiondeveloper.com/blog>                          |
 | McAfee                         | <https://www.mcafee.com/blogs>                                  |
 | Netflix                        | <https://netflixtechblog.com>                                   |
+| Nextroll                       | <https://tech.nextroll.com/blog>                                |
 | Namely                         | <https://medium.com/namely-labs>                                |
 | New Relic                      | <https://newrelic.com/blog>                                     |
 | Nintex                         | <https://www.nintex.com/blog>                                   |
