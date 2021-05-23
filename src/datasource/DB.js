@@ -463,6 +463,34 @@ const links = [
     name: 'Doordash',
     link: 'https://doordash.engineering'
   },
+  {
+    name: '500px',
+    link: 'https://developers.500px.com'
+  },
+  {
+    name: '99designs',
+    link: 'https://99designs.com/blog/engineering/'
+  },
+  {
+    name: 'Addepar',
+    link: 'https://medium.com/build-addepar'
+  },
+  {
+    name: 'Affinity',
+    link: 'https://build.affinity.co'
+  },
+  {
+    name: 'AWS',
+    link: 'https://aws.amazon.com/blogs/aws/'
+  },
+  {
+    name: 'Upgrad',
+    link: 'https://engineering.upgrad.com'
+  },
+  {
+    name: 'Universe',
+    link: 'https://engineering.universe.com'
+  },
 ];
 
 export default links;
