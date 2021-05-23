@@ -579,6 +579,26 @@ const links = [
     name: 'Timescale',
     link: 'https://blog.timescale.com/'
   },
+  {
+    name: 'Netlify',
+    link: 'https://www.netlify.com/tags/engineering/'
+  },
+  {
+    name: 'Algolia',
+    link: 'https://www.algolia.com/blog/engineering'
+  },
+  {
+    name: 'Redis',
+    link: 'https://redislabs.com/blog/tech-blog'
+  },
+  {
+    name: 'Apache',
+    link: 'https://blogs.apache.org/foundation/'
+  },
+  {
+    name: 'Nginx',
+    link: 'https://www.nginx.com/blog/'
+  },
 ];
 
 export default links;

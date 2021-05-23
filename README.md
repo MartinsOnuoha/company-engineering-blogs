@@ -41,7 +41,9 @@
 | Atlassian                      | <https://www.atlassian.com/blog/atlassian-engineering>          |
 | ADP                            | <https://tech.adp.com/blog/>                                    |
 | Adobe                          | <https://medium.com/adobetech>                                  |
+| Algolia                        | <https://www.algolia.com/blog/engineering>                      |
 | Android                        | <https://developer.android.com>                                 |
+| Apache                         | <https://blogs.apache.org/foundation>                           |
 | Affinity                       | <https://build.affinity.co>                                     |
 | Addepar                        | <https://medium.com/build-addepar>                              |
 | Airbrake                       | <https://airbrake.io/blog>                                      |
@@ -160,9 +162,11 @@
 | Nextroll                       | <https://tech.nextroll.com/blog>                                |
 | Namely                         | <https://medium.com/namely-labs>                                |
 | New Relic                      | <https://newrelic.com/blog>                                     |
+| Nginx                          | <https://www.nginx.com/blog>                                    |
+| Netlify                        | <https://www.netlify.com/tags/engineering>                      |
 | Nintex                         | <https://www.nintex.com/blog>                                   |
 | Net App                        | <https://blog.netapp.com>                                       |
-| .NET                           | <https://devblogs.microsoft.com/dotnet/>                        |
+| .NET                           | <https://devblogs.microsoft.com/dotnet>                         |
 | NortonLifeLock                 | <https://www.nortonlifelock.com/blogs/gaming>                   |
 |                                |                                                                 |
 | ✨ O                            |                                                                 |
@@ -188,6 +192,7 @@
 | RocksDB                        | <https://rocksdb.org/blog>                                      |
 | Rust                           | <https://blog.rust-lang.org>                                    |
 | React                          | <https://reactjs.org/blog>                                      |
+| Redis                          | <https://redislabs.com/blog/tech-blog>                          |
 | Reddit                         | <https://redditblog.com/topic/technology>                       |
 | React Native                   | <https://reactnative.dev/blog>                                  |
 | RiotGames                      | <https://technology.riotgames.com>                              |
