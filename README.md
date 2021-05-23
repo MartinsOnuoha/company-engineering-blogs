@@ -37,14 +37,14 @@
 | 500px                          | <https://developers.500px.com>                                  |
 | 99designs                      | <https://99designs.com/blog/engineering>                        |
 |                                |                                                                 |
-
 | ✨ A                            |                                                                 |
-| ------------------------------ | --------------------------------------------------------------- |
+|                                |                                                                 |
 | Airbnb                         | <https://medium.com/airbnb-engineering>                         |
 | AutoDesk                       | [All Product Blogs](https://www.autodesk.com/blogs), [Autocad Blog](https://adndevblog.typepad.com/autocad/), [Maya Blog](https://area.autodesk.com/all/blogs/maya), [Bim & Beam](https://blogs.autodesk.com/bim-and-beam/),              |
 | Atlassian                      | <https://www.atlassian.com/blog/atlassian-engineering>          |
 | ADP                            | <https://tech.adp.com/blog/>                                    |
 | Adobe                          | <https://medium.com/adobetech>                                  |
+| Android                        | <https://developer.android.com>                                 |
 | Affinity                       | <https://build.affinity.co>                                     |
 | Addepar                        | <https://medium.com/build-addepar>                              |
 | Airbrake                       | <https://airbrake.io/blog>                                      |
@@ -68,6 +68,8 @@
 |                                |                                                                 |
 | Cloudera                       | <https://blog.cloudera.com/category/technical>                  |
 | Citrix                         | <https://www.citrix.com/blogs>                                  |
+| Chrome                         | <https://developer.chrome.com/blog/>                            |
+| Chromium                       | <https://blog.chromium.org>                                     |
 | Centrify                       | <https://www.centrify.com/blog>                                 |
 | Cookpad                        | <https://sourcediving.com>                                      |
 | Couchbase                      | <https://blog.couchbase.com>                                    |
@@ -111,6 +113,7 @@
 |                                |                                                                 |
 | ✨ G                            |                                                                 |
 |                                |                                                                 |
+| Google                         | <https://developers.googleblog.com>                             |
 | Google AI                      | <https://ai.googleblog.com>                                     |
 | Gusto                          | <https://engineering.gusto.com>                                 |
 | GFI Software                   | <https://techtalk.gfi.com/>                                     |
@@ -134,9 +137,11 @@
 | ✨ K                            |                                                                 |
 |                                |                                                                 |
 | Kaggle                         | <https://medium.com/kaggle-blog>                                |
+| Kotlin                         | <https://blog.jetbrains.com/kotlin>                             |
 |                                |                                                                 |
 | ✨ L                            |                                                                 |
 |                                |                                                                 |
+| Laravel                        | <https://laravel-news.com/blog/>                                |
 | LineCorp                       | <https://engineering.linecorp.com/en/blog>                      |
 | LinkedIn                       | <https://engineering.linkedin.com/blog>                         |
 | Looker                         | <https://medium.com/looker-engineering>                         |
@@ -160,6 +165,7 @@
 | New Relic                      | <https://newrelic.com/blog>                                     |
 | Nintex                         | <https://www.nintex.com/blog>                                   |
 | Net App                        | <https://blog.netapp.com>                                       |
+| .NET                           | <https://devblogs.microsoft.com/dotnet/>                        |
 | NortonLifeLock                 | <https://www.nortonlifelock.com/blogs/gaming>                   |
 |                                |                                                                 |
 | ✨ O                            |                                                                 |
@@ -182,11 +188,15 @@
 |                                |                                                                 |
 | ✨ R                            |                                                                 |
 |                                |                                                                 |
+| RocksDB                        | <https://rocksdb.org/blog>                                      |
+| Rust                           | <https://blog.rust-lang.org>                                    |
+| React                          | <https://reactjs.org/blog>                                      |
 | Reddit                         | <https://redditblog.com/topic/technology>                       |
+| React Native                   | <https://reactnative.dev/blog>                                  |
 | RiotGames                      | <https://technology.riotgames.com>                              |
 | Rackspace                      | <https://docs.rackspace.com/blog>                               |
 |                                |                                                                 |
-| S                              |                                                                 |
+| ✨ S                            |                                                                 |
 |                                |                                                                 |
 | Salesforce                     | <https://developer.salesforce.com/blogs/engineering>            |
 | SAP                            | <https://blogs.sap.com/?category%5B%5D=76118&action=apply>      |
@@ -195,8 +205,10 @@
 | SocialBakers                   | <https://medium.com/socialbakers-engineering>                   |
 | SimilarWeb                     | <https://similarweb.engineering>                                |
 | SS&C                           | <https://www.ssctech.com/blog>                                  |
+| Sketch                         | <https://blog.sketchapp.com>                                    |
 | Shopify                        | <https://engineering.shopify.com>                               |
-| Spotify                        | <<https://engineering.atspotify.com> >                            |
+| Spotify                        | <https://engineering.atspotify.com>                             |
+| Swift                          | <https://developer.apple.com/swift/blog>                        |
 | Strava                         | <https://medium.com/strava-engineering>                         |
 | Slack                          | <https://slack.engineering>                                     |
 | Stripe                         | <https://stripe.com/blog/engineering>                           |
@@ -205,36 +217,49 @@
 | Splunk                         | <https://www.splunk.com/en_us/blog/it.html>                     |
 | ServiceNow                     | <https://developer.servicenow.com>                              |
 |                                |                                                                 |
-| T                              |                                                                 |
+| ✨ T                            |                                                                 |
 |                                |                                                                 |
 | Talkdesk                       | <https://engineering.talkdesk.com/>                             |
+| Wise                           | <https://medium.com/transferwise-engineering>                   |
 | Twitter                        | <https://blog.twitter.com/engineering>                          |
+| Twitch                         | <https://blog.twitch.tv/tagged/engineering>                     |
+| Timescale                      | <https://blog.timescale.com>                                    |
+| Tinder                         | <https://tech.gotinder.com>                                     |
+| Thumbtack                      | <https://medium.com/thumbtack-engineering>                      |
 | Teradata                       | <https://www.teradata.com/Blogs>                                |
 | Twilio                         | <https://www.twilio.com/blog>                                   |
 | Toptal                         | <https://www.toptal.com/developers/blog>                        |
+| Tumblr                         | <https://engineering.tumblr.com>                                |
+| Trello                         | <https://tech.trello.com>                                       |
+| TrueCar                        | <https://www.drivenbycode.com>                                  |
+| Trivago                        | <https://tech.trivago.com>                                      |
+| Ticketmaster                   | <https://tech.ticketmaster.com>                                 |
 | Tableau                        | <https://engineering.tableau.com>                               |
+| Trackmaven                     | <http://engineroom.trackmaven.com>                              |
 |                                |                                                                 |
-| U                              |                                                                 |
+| ✨ U                            |                                                                 |
 |                                |                                                                 |
 | Uber                           | <https://eng.uber.com>                                          |
 | Upgrad                         | <https://engineering.upgrad.com>                                |
 | Universe                       | <https://engineering.universe.com>                              |
 |                                |                                                                 |
-| V                              |                                                                 |
+| ✨ V                            |                                                                 |
 |                                |                                                                 |
 | Veeam                          | <https://www.veeam.com/blog/?filter-tag=best-practices>         |
 | Veeva                          | <https://www.veeva.com/veeva-blog>                              |
+| Vertabelo                      | <https://www.vertabelo.com/blog>                                |
 |                                |                                                                 |
-| W                              |                                                                 |
+| ✨ W                            |                                                                 |
 |                                |                                                                 |
+| WebDev (Google)                | <https://web.dev/blog/>                                         |
 | Workday                        | <https://blog.workday.com/en-us/technology-innovation.html>     |
 | Walkme                         | <https://medium.com/walkme-engineering>                         |
 |                                |                                                                 |
-| Y                              |                                                                 |
+| ✨ Y                            |                                                                 |
 |                                |                                                                 |
 | Yelp                           | <https://engineeringblog.yelp.com>                              |
 |                                |                                                                 |
-| Z                              |                                                                 |
+| ✨ Z                            |                                                                 |
 |                                |                                                                 |
 | Zoho                           | <https://blog.zoho.com>                                         |
 | Zuora                          | <https://community.zuora.com/t5/Engineering-Blog/bg-p/engineering-blog> |

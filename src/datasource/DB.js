@@ -491,6 +491,94 @@ const links = [
     name: 'Universe',
     link: 'https://engineering.universe.com'
   },
+  {
+    name: 'Vertabelo',
+    link: 'https://www.vertabelo.com/blog'
+  },
+  {
+    name: 'Swift',
+    link: 'https://developer.apple.com/swift/blog/'
+  },
+  {
+    name: 'Rust',
+    link: 'https://blog.rust-lang.org'
+  },
+  {
+    name: 'RocksDB',
+    link: 'https://rocksdb.org/blog/'
+  },
+  {
+    name: 'React Native',
+    link: 'https://reactnative.dev/blog/'
+  },
+  {
+    name: '.NET',
+    link: 'https://devblogs.microsoft.com/dotnet/'
+  },
+  {
+    name: 'React',
+    link: 'https://reactjs.org/blog'
+  },
+  {
+    name: 'Laravel',
+    link: 'https://laravel-news.com/blog/'
+  },
+  {
+    name: 'Chrome',
+    link: 'https://developer.chrome.com/blog/'
+  },
+  {
+    name: 'Chromium',
+    link: 'https://blog.chromium.org'
+  },
+  {
+    name: 'Android',
+    link: 'https://developer.android.com/'
+  },
+  {
+    name: 'Google',
+    link: 'https://developers.googleblog.com/'
+  },
+  {
+    name: 'Kotlin',
+    link: 'https://blog.jetbrains.com/kotlin/'
+  },
+  {
+    name: 'Tumblr',
+    link: 'https://engineering.tumblr.com'
+  },
+  {
+    name: 'Twitch',
+    link: 'https://blog.twitch.tv/tagged/engineering'
+  },
+  {
+    name: 'TrueCar',
+    link: 'https://www.drivenbycode.com/'
+  },
+  {
+    name: 'Trivago',
+    link: 'https://tech.trivago.com/'
+  },
+  {
+    name: 'Wise',
+    link: 'https://medium.com/transferwise-engineering'
+  },
+  {
+    name: 'Trello',
+    link: 'https://tech.trello.com'
+  },
+  {
+    name: 'Trackmaven',
+    link: 'http://engineroom.trackmaven.com/'
+  },
+  {
+    name: 'Tinder',
+    link: 'https://tech.gotinder.com'
+  },
+  {
+    name: 'Timescale',
+    link: 'https://blog.timescale.com/'
+  },
 ];
 
 export default links;
