@@ -31,14 +31,14 @@
 
 ## Blog Links (130)
 
-| 🏢 Company Name                 | 🔗 Blog Link                                                     |
+| 🏢 Company Name                 | 🔗 Blog Link                                                    |
 | ------------------------------ | --------------------------------------------------------------- |
 | 8thlight                       | <https://8thlight.com/blog>                                     |
 | 500px                          | <https://developers.500px.com>                                  |
 | 99designs                      | <https://99designs.com/blog/engineering>                        |
 |                                |                                                                 |
 | ✨ A                            |                                                                 |
-|                                |                                                                 |
+| ------------------------------ | --------------------------------------------------------------- |
 | Airbnb                         | <https://medium.com/airbnb-engineering>                         |
 | AutoDesk                       | [All Product Blogs](https://www.autodesk.com/blogs), [Autocad Blog](https://adndevblog.typepad.com/autocad/), [Maya Blog](https://area.autodesk.com/all/blogs/maya), [Bim & Beam](https://blogs.autodesk.com/bim-and-beam/),              |
 | Atlassian                      | <https://www.atlassian.com/blog/atlassian-engineering>          |
@@ -56,7 +56,7 @@
 | Amdocs                         | <https://www.amdocs.com/blog?field_category_target_id=2431&field_authors_target_id=All&field_blog_type_target_id=All>                                                                     |
 | ASOS                           | <https://medium.com/asos-techblog>                              |
 |                                |                                                                 |
-| 🏢 B                            |                                                                 |
+| ✨ B                            |                                                                 |
 |                                |                                                                 |
 | Baidu Research                 | <https://research.baidu.com/Blog>                               |
 | BBC (design + engineering)     | <https://medium.com/bbc-design-engineering>                     |
@@ -140,7 +140,7 @@
 | LinkedIn                       | <https://engineering.linkedin.com/blog>                         |
 | Looker                         | <https://medium.com/looker-engineering>                         |
 |                                |                                                                 |
-| M                              |                                                                 |
+| ✨ M                            |                                                                 |
 |                                |                                                                 |
 | MalwareBytes                   | <https://blog.malwarebytes.com>                                 |
 | Medium                         | <https://medium.engineering>                                    |
@@ -151,7 +151,7 @@
 | MotionDeveloper                | <https://www.motiondeveloper.com/blog>                          |
 | McAfee                         | <https://www.mcafee.com/blogs>                                  |
 |                                |                                                                 |
-| N                              |                                                                 |
+| ✨ N                            |                                                                 |
 |                                |                                                                 |
 | Netflix                        | <https://netflixtechblog.com>                                   |
 | Nextroll                       | <https://tech.nextroll.com/blog>                                |
@@ -161,25 +161,25 @@
 | Net App                        | <https://blog.netapp.com>                                       |
 | NortonLifeLock                 | <https://www.nortonlifelock.com/blogs/gaming>                   |
 |                                |                                                                 |
-| O                              |                                                                 |
+| ✨ O                            |                                                                 |
 |                                |                                                                 |
 | Okta                           | <https://developer.okta.com/blog>                               |
 | Oracle                         | <https://blogs.oracle.com/developers>                           |
 | Outsystems                     | <https://medium.com/outsystems-engineering>                     |
 |                                |                                                                 |
-| P                              |                                                                 |
+| ✨ P                            |                                                                 |
 |                                |                                                                 |
 | PagerDuty                      | <https://www.pagerduty.com/eng>                                 |
 | Pinterest                      | <https://medium.com/@Pinterest_Engineering>                     |
 | Proofpoint                     | <https://www.proofpoint.com/us/blog>                            |
 | Pipedrive                      | <https://medium.com/pipedrive-engineering>                      |
 |                                |                                                                 |
-| Q                              |                                                                 |
+| ✨ Q                            |                                                                 |
 |                                |                                                                 |
 | Quora                          | <https://quoraengineering.quora.com>                            |
 | Qualtrics                      | <https://www.qualtrics.com/eng>                                 |
 |                                |                                                                 |
-| R                              |                                                                 |
+| ✨ R                            |                                                                 |
 |                                |                                                                 |
 | Reddit                         | <https://redditblog.com/topic/technology>                       |
 | RiotGames                      | <https://technology.riotgames.com>                              |
