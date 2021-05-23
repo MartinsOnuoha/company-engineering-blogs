@@ -33,9 +33,6 @@
 
 | 🏢 Company Name                 | 🔗 Blog Link                                                    |
 | ------------------------------ | --------------------------------------------------------------- |
-| 8thlight                       | <https://8thlight.com/blog>                                     |
-| 500px                          | <https://developers.500px.com>                                  |
-| 99designs                      | <https://99designs.com/blog/engineering>                        |
 |                                |                                                                 |
 | ✨ A                            |                                                                 |
 |                                |                                                                 |
