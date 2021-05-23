@@ -37,7 +37,7 @@
 | 500px                          | <https://developers.500px.com>                                  |
 | 99designs                      | <https://99designs.com/blog/engineering>                        |
 |                                |                                                                 |
-| 🏢 A                            |                                                                 |
+| ✨ A                            |                                                                 |
 |                                |                                                                 |
 | Airbnb                         | <https://medium.com/airbnb-engineering>                         |
 | AutoDesk                       | [All Product Blogs](https://www.autodesk.com/blogs), [Autocad Blog](https://adndevblog.typepad.com/autocad/), [Maya Blog](https://area.autodesk.com/all/blogs/maya), [Bim & Beam](https://blogs.autodesk.com/bim-and-beam/),              |
@@ -63,7 +63,7 @@
 | Black Rock Engineering         | <https://medium.com/blackrock-engineering>                      |
 | Booking.com                    | <https://blog.booking.com>                                      |
 |                                |                                                                 |
-| 🏢 C                            |                                                                 |
+| ✨ C                            |                                                                 |
 |                                |                                                                 |
 | Cloudera                       | <https://blog.cloudera.com/category/technical>                  |
 | Citrix                         | <https://www.citrix.com/blogs>                                  |
@@ -76,7 +76,7 @@
 | Coupa                          | <https://www.coupa.com/blog/technology-innovation>              |
 | Cyclane                        | <https://blog.fivenines.com>                                    |
 |                                |                                                                 |
-| 🏢 D                            |                                                                 |
+| ✨ D                            |                                                                 |
 |                                |                                                                 |
 | Dataiku                        | <https://blog.dataiku.com>                                      |
 | Datorama                       | <https://engineering.datorama.com>                              |
@@ -90,7 +90,7 @@
 | Dropbox                        | <https://dropbox.tech>                                          |
 | Digital Ocean                  | <https://www.digitalocean.com/blog/tag/engineering>             |
 |                                |                                                                 |
-| 🏢 E                            |                                                                 |
+| ✨ E                            |                                                                 |
 |                                |                                                                 |
 | eBay                           | <https://tech.ebayinc.com>                                      |
 | Egnyte                         | <https://www.egnyte.com/blog/tag/engineering>                   |
@@ -101,24 +101,24 @@
 | Eventbrite                     | <https://www.eventbrite.com/engineering>                        |
 | Evernote                       | <https://evernote.com/blog>                                     |
 |                                |                                                                 |
-| 🏢 F                            |                                                                 |
+| ✨ F                            |                                                                 |
 |                                |                                                                 |
 | Facebook                       | <https://engineering.fb.com>                                    |
 | FullContact                    | <https://www.fullcontact.com/blog/engineering>                  |
 | FastMail                       | <https://fastmail.blog/tag/open-technologies>                   |
 | Fastly                         | <https://www.fastly.com/blog/engineering>                       |
 |                                |                                                                 |
-| 🏢 G                            |                                                                 |
+| ✨ G                            |                                                                 |
 |                                |                                                                 |
 | Google AI                      | <https://ai.googleblog.com>                                     |
 | Gusto                          | <https://engineering.gusto.com>                                 |
 | GFI Software                   | <https://techtalk.gfi.com/>                                     |
 |                                |                                                                 |
-| 🏢 H                            |                                                                 |
+| ✨ H                            |                                                                 |
 |                                |                                                                 |
 | Hostinger                      | <https://www.hostinger.com/blog/engineering>                    |
 |                                |                                                                 |
-| 🏢 I                            |                                                                 |
+| ✨ I                            |                                                                 |
 |                                |                                                                 |
 | Import.io                      | <https://www.import.io/blog>                                    |
 | Instagram                      | <https://instagram-engineering.com>                             |
@@ -126,15 +126,15 @@
 | InVision                       | <https://engineering.invisionapp.com>                           |
 | Intercom                       | <https://www.intercom.com/blog/engineering>                     |
 |                                |                                                                 |
-| 🏢 J                            |                                                                 |
+| ✨ J                            |                                                                 |
 |                                |                                                                 |
 | JustWorks                      | <https://justworks.com/blog/categories/engineering>             |
 |                                |                                                                 |
-| 🏢 K                            |                                                                 |
+| ✨ K                            |                                                                 |
 |                                |                                                                 |
 | Kaggle                         | <https://medium.com/kaggle-blog>                                |
 |                                |                                                                 |
-| 🏢 L                            |                                                                 |
+| ✨ L                            |                                                                 |
 |                                |                                                                 |
 | LineCorp                       | <https://engineering.linecorp.com/en/blog>                      |
 | LinkedIn                       | <https://engineering.linkedin.com/blog>                         |
