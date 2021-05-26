@@ -5,7 +5,7 @@
     </div>
     <div class="link__content">
       <div><h3>{{ name }}</h3></div>
-      <div class="link__url"><a :href="link">{{ link }}</a></div>
+      <div class="link__url"><a :href="link" target="_blank">{{ link }}</a></div>
     </div>
   </div>
 </template>
