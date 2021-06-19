@@ -55,6 +55,7 @@
 | AWS                            | <https://aws.amazon.com/blogs/aws>                              |
 | Amdocs                         | <https://www.amdocs.com/blog?field_category_target_id=2431&field_authors_target_id=All&field_blog_type_target_id=All>                                                                     |
 | ASOS                           | <https://medium.com/asos-techblog>                              |
+| Activision                     | <https://research.activision.com/>                              |
 |                                |                                                                 |
 | ✨ B                            |                                                                 |
 |                                |                                                                 |
@@ -102,6 +103,7 @@
 | EPAM                           | <https://anywhere.epam.com/blog>                                |
 | Eventbrite                     | <https://www.eventbrite.com/engineering>                        |
 | Evernote                       | <https://evernote.com/blog>                                     |
+| ELECTRONIC ARTS                | <https://www.ea.com/technology>                                 |
 |                                |                                                                 |
 | ✨ F                            |                                                                 |
 |                                |                                                                 |
@@ -168,6 +170,7 @@
 | Net App                        | <https://blog.netapp.com>                                       |
 | .NET                           | <https://devblogs.microsoft.com/dotnet>                         |
 | NortonLifeLock                 | <https://www.nortonlifelock.com/blogs/gaming>                   |
+| Nintendo                       | <https://developer.nintendo.com/>                               |
 |                                |                                                                 |
 | ✨ O                            |                                                                 |
 |                                |                                                                 |
@@ -244,6 +247,9 @@
 | Uber                           | <https://eng.uber.com>                                          |
 | Upgrad                         | <https://engineering.upgrad.com>                                |
 | Universe                       | <https://engineering.universe.com>                              |
+| Ubisoft                        | <https://montreal.ubisoft.com/en/tech-blog/>                    |
+| Unreal Engine                  | <https://www.unrealengine.com/en-US/feed/tech-blog>             |
+| Unity                          | <https://blog.unity.com/technology>                             |
 |                                |                                                                 |
 | ✨ V                            |                                                                 |
 |                                |                                                                 |
