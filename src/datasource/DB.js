@@ -599,6 +599,30 @@ const links = [
     name: 'Nginx',
     link: 'https://www.nginx.com/blog/'
   },
+  {
+    name: 'Nintendo',
+    link: 'https://developer.nintendo.com/'
+  },
+  {
+    name: 'ELECTRONIC ARTS',
+    link: 'https://www.ea.com/technology'
+  },
+  {
+    name: 'Activision',
+    link: 'https://research.activision.com/'
+  },
+  {
+    name: 'Ubisoft',
+    link: 'https://montreal.ubisoft.com/en/tech-blog/'
+  },
+  {
+    name: 'Unreal Engine',
+    link: 'https://www.unrealengine.com/en-US/feed/tech-blog'
+  },
+  {
+    name: 'Unity',
+    link: 'https://blog.unity.com/technology'
+  },
 ];
 
 export default links;
