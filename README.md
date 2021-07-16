@@ -203,7 +203,7 @@
 |                                |                                                                 |
 | ✨ S                            |                                                                 |
 |                                |                                                                 |
-| Salesforce                     | <https://developer.salesforce.com/blogs/engineering>            |
+| Salesforce                     | <https://engineering.salesforce.com/>                           |
 | SAP                            | <https://blogs.sap.com/?category%5B%5D=76118&action=apply>      |
 | SailPoint                      | <https://medium.com/sailpointtechblog>                          |
 | Salesloft                      | <https://medium.com/salesloft-engineering/tagged/engineering>   |
