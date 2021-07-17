@@ -137,7 +137,7 @@ const links = [
   },
   {
     name: 'Salesforce',
-    link: 'https://developer.salesforce.com/blogs/engineering'
+    link: 'https://engineering.salesforce.com'
   },
   {
     name: 'Shopify',
