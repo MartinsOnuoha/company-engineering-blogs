@@ -99,7 +99,7 @@
 | Egnyte                         | <https://www.egnyte.com/blog/tag/engineering>                   |
 | Exponent                       | <https://blog.tryexponent.com>                                  |
 | Etsy                           | <https://codeascraft.com>                                       |
-| Elastic Search                 | <https://www.elastic.co/blog/category/engineering>              |
+| Elastic Search                 | <https://www.elastic.co/blog/>                                  |
 | EPAM                           | <https://anywhere.epam.com/blog>                                |
 | Eventbrite                     | <https://www.eventbrite.com/engineering>                        |
 | Evernote                       | <https://evernote.com/blog>                                     |
@@ -114,7 +114,7 @@
 |                                |                                                                 |
 | ✨ G                            |                                                                 |
 |                                |                                                                 |
-| Google                         | <https://developers.googleblog.com>                             |
+| Google                         | <https://blog.google/technology/developers/>                    |
 | Google AI                      | <https://ai.googleblog.com>                                     |
 | Gusto                          | <https://engineering.gusto.com>                                 |
 | GFI Software                   | <https://techtalk.gfi.com/>                                     |
@@ -146,6 +146,7 @@
 | LineCorp                       | <https://engineering.linecorp.com/en/blog>                      |
 | LinkedIn                       | <https://engineering.linkedin.com/blog>                         |
 | Looker                         | <https://medium.com/looker-engineering>                         |
+| Logit.io                       | <https://logit.io/blog/>                                        |
 |                                |                                                                 |
 | ✨ M                            |                                                                 |
 |                                |                                                                 |
