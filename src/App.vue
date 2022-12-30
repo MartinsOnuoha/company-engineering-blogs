@@ -17,7 +17,7 @@ const state = reactive({
 })
 
 const filter = (e) => {
-  state.DB = DB.filter(x => x.name.includes(e.target.value))
+  state.DB = DB.filter(x => x.name.toLowerCase().includes(e.target.value.toLowerCase()))
 }
 </script>
 
