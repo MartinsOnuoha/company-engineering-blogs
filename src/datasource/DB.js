@@ -623,6 +623,10 @@ const links = [
     name: 'Unity',
     link: 'https://blog.unity.com/technology'
   },
+  {
+    name: 'Spacelift',
+    link: 'https://spacelift.io/blog'
+  }
 ];
 
 export default links;
