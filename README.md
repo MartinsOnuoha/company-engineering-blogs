@@ -222,6 +222,7 @@
 | SmartBear                      | <https://smartbear.com/blog>                                    |
 | Splunk                         | <https://www.splunk.com/en_us/blog/it.html>                     |
 | ServiceNow                     | <https://developer.servicenow.com>                              |
+| Spacelift                      | <https://spacelift.io/blog>                                     |
 |                                |                                                                 |
 | ✨ T                            |                                                                 |
 |                                |                                                                 |
