@@ -185,6 +185,7 @@
 | Pinterest                      | <https://medium.com/@Pinterest_Engineering>                     |
 | Proofpoint                     | <https://www.proofpoint.com/us/blog>                            |
 | Pipedrive                      | <https://medium.com/pipedrive-engineering>                      |
+| Pulumi                         | <https://www.pulumi.com/blog/>                                  |  
 |                                |                                                                 |
 | ✨ Q                            |                                                                 |
 |                                |                                                                 |
