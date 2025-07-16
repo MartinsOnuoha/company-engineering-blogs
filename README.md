@@ -70,6 +70,7 @@
 | Citrix                         | <https://www.citrix.com/blogs>                                  |
 | Chrome                         | <https://developer.chrome.com/blog/>                            |
 | Chromium                       | <https://blog.chromium.org>                                     |
+| Choreo                         | <https://medium.com/choreo-tech-blog>                           |
 | Centrify                       | <https://www.centrify.com/blog>                                 |
 | Cookpad                        | <https://sourcediving.com>                                      |
 | Couchbase                      | <https://blog.couchbase.com>                                    |
