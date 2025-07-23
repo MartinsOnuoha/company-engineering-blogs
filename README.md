@@ -7,6 +7,7 @@
 > This is an extensive collection of links to engineering blogs of companies, where you can read articles that give insights to how their products are built and how to solve complex enterprise software problems.
 
 - [Companies Engineering Blog](#companies-engineering-blog)
+  - [Getting Started](#getting-started)
   - [Blog Links (130)](#blog-links-130)
   - [Picks](#picks)
     - [Frontend 🎨](#frontend-)
@@ -28,6 +29,32 @@
     - [Help with Picks](#help-with-picks)
 
 ----
+
+## Getting Started
+
+This project uses [Vue](https://vuejs.org/) with [Vite](https://vitejs.dev/). To run it locally, install dependencies:
+
+```bash
+npm install
+```
+
+Launch a development server with:
+
+```bash
+npm run dev
+```
+
+Generate a production build via:
+
+```bash
+npm run build
+```
+
+Preview the built site using:
+
+```bash
+npm run serve
+```
 
 ## Blog Links (130)
 
