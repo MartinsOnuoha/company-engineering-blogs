@@ -21,29 +21,32 @@ const props = defineProps({
 
 <style>
   .link {
-    background: #FFF;
-    padding: 12px;
-    border: 1px solid grey;
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     display: flex;
     align-items: center;
-    margin-top: 1rem;
-    border-radius: 5px;
     width: 100%;
   }
+
   .link__icon {
-    font-size: 30px;
-    margin-right: 2rem;
+    font-size: 24px;
+    margin-right: 1rem;
   }
+
   .link__content {
     text-align: left;
   }
+
   .link__url {
-    background-color: #FFCC80;
-    padding: 5px;
-    border-radius: 5px;
-    font-size: 13px;
+    background-color: #ffecb3;
+    padding: 4px 6px;
+    border-radius: 4px;
+    font-size: 12px;
     font-weight: 700;
   }
+
   a {
     text-decoration: none;
     color: black;

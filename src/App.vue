@@ -8,44 +8,53 @@
 </template>
 
 <script setup>
-import { reactive, ref, useContext } from 'vue'
-import DB from './datasource/DB'
+import { reactive, ref, onMounted } from 'vue'
 import Link from './components/Link.vue'
 
 const state = reactive({
-  DB: ref(DB),
+  allLinks: ref([]),
+  DB: ref([]),
+})
+
+onMounted(async () => {
+  const res = await fetch('/links.json')
+  const data = await res.json()
+  state.allLinks = data
+  state.DB = data
 })
 
 const filter = (e) => {
-  state.DB = DB.filter(x => x.name.toLowerCase().includes(e.target.value.toLowerCase()))
+  const value = e.target.value.toLowerCase()
+  state.DB = state.allLinks.filter(x => x.name.toLowerCase().includes(value))
 }
 </script>
 
 <style>
 body {
-  background: #de6161;
-  background: -webkit-linear-gradient(to right, #2657eb, #de6161);
-  background: linear-gradient(to right, #2657eb, #de6161);
-}
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  background: linear-gradient(135deg, #4b6cb7 0%, #182848 100%);
   color: #2c3e50;
-  margin-top: 60px;
 }
-.list {
-  padding: 5px;
-}
+
 .container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
 }
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
 .search {
-  padding: 10px;
+  padding: 0.75rem;
+  font-size: 16px;
+  margin-bottom: 1rem;
   width: 100%;
+  border-radius: 8px;
+  border: none;
 }
 </style>
