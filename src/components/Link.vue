@@ -29,6 +29,7 @@ const props = defineProps({
     margin-top: 1rem;
     border-radius: 5px;
     width: 100%;
+    overflow: hidden;
   }
   .link__icon {
     font-size: 30px;
@@ -36,6 +37,8 @@ const props = defineProps({
   }
   .link__content {
     text-align: left;
+    max-width: 78%;
+    overflow: hidden;
   }
   .link__url {
     background-color: #FFCC80;
